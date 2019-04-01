@@ -239,7 +239,7 @@
         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UwOo81QmEemwpo9TI_R5Hw"/>
       </children>
       <element xmi:type="uml:UseCase" href="Proyecto%20Software%202.uml#_UwMzwFQmEemwpo9TI_R5Hw"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UwOB4VQmEemwpo9TI_R5Hw" x="100" y="280" width="121" height="61"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UwOB4VQmEemwpo9TI_R5Hw" x="54" y="280" width="213" height="61"/>
     </children>
     <styles xmi:type="notation:StringValueStyle" xmi:id="_xnccIVHGEem9HrCt_fglmg" name="diagram_compatibility_version" stringValue="1.4.0"/>
     <styles xmi:type="notation:DiagramStyle" xmi:id="_xnccIlHGEem9HrCt_fglmg"/>

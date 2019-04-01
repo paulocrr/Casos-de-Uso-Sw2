@@ -136,7 +136,7 @@
     <ownedEnd xmi:type="uml:Property" xmi:id="_PgGokFQlEemwpo9TI_R5Hw" name="explorar contenido de la tienda" type="_GA5EgFQXEemwpo9TI_R5Hw" association="_PgFacFQlEemwpo9TI_R5Hw"/>
     <ownedEnd xmi:type="uml:Property" xmi:id="_PgGokVQlEemwpo9TI_R5Hw" name="usuario" type="_DmzdIFQWEemwpo9TI_R5Hw" association="_PgFacFQlEemwpo9TI_R5Hw"/>
   </packagedElement>
-  <packagedElement xmi:type="uml:UseCase" xmi:id="_UwMzwFQmEemwpo9TI_R5Hw" name="Canjear Regalo"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_UwMzwFQmEemwpo9TI_R5Hw" name="[CU-SU-16]Canjear Regalo"/>
   <packagedElement xmi:type="uml:Association" xmi:id="_ZYQukFQnEemwpo9TI_R5Hw" memberEnd="_ZYRVolQnEemwpo9TI_R5Hw _ZYRVo1QnEemwpo9TI_R5Hw">
     <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_ZYRVoFQnEemwpo9TI_R5Hw" source="org.eclipse.papyrus">
       <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ZYRVoVQnEemwpo9TI_R5Hw" key="nature" value="UML_Nature"/>
