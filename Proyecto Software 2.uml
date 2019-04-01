@@ -5,35 +5,35 @@
   </packageImport>
   <packagedElement xmi:type="uml:Actor" xmi:id="_984nQFQVEemwpo9TI_R5Hw" name="Persona"/>
   <packagedElement xmi:type="uml:Actor" xmi:id="_DmzdIFQWEemwpo9TI_R5Hw" name="Usuario"/>
-  <packagedElement xmi:type="uml:UseCase" xmi:id="_GqjiAFQWEemwpo9TI_R5Hw" name="Registrar Usuario">
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_GqjiAFQWEemwpo9TI_R5Hw" name="[CU-SU-1]Registrar Usuario">
     <extensionPoint xmi:type="uml:ExtensionPoint" xmi:id="_LCif0VQfEemwpo9TI_R5Hw" name="ExtensionPoint1"/>
   </packagedElement>
-  <packagedElement xmi:type="uml:UseCase" xmi:id="_N2wqAFQWEemwpo9TI_R5Hw" name="Login Usuario"/>
-  <packagedElement xmi:type="uml:UseCase" xmi:id="_aOk7QFQWEemwpo9TI_R5Hw" name="Suspender Cuenta"/>
-  <packagedElement xmi:type="uml:UseCase" xmi:id="_hwYf0FQWEemwpo9TI_R5Hw" name="Editar Perfil">
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_N2wqAFQWEemwpo9TI_R5Hw" name="[CU-SU-3]Login Usuario"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_aOk7QFQWEemwpo9TI_R5Hw" name="[CU-SU-14]Suspender Cuenta"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_hwYf0FQWEemwpo9TI_R5Hw" name="[CU-SU-4]Editar Perfil">
     <extensionPoint xmi:type="uml:ExtensionPoint" xmi:id="_IuLQgFQfEemwpo9TI_R5Hw" name="ExtensionPoint1"/>
   </packagedElement>
-  <packagedElement xmi:type="uml:UseCase" xmi:id="_wh9dwFQWEemwpo9TI_R5Hw" name="Administrar Metodos de Pago"/>
-  <packagedElement xmi:type="uml:UseCase" xmi:id="_GA5EgFQXEemwpo9TI_R5Hw" name="Explorar Contenido de la Tienda">
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_wh9dwFQWEemwpo9TI_R5Hw" name="[CU-SU-12]Administrar Metodos de Pago"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_GA5EgFQXEemwpo9TI_R5Hw" name="[CU-SU-2]Explorar Contenido de la Tienda">
     <extensionPoint xmi:type="uml:ExtensionPoint" xmi:id="_bSVo4FQXEemwpo9TI_R5Hw" name="ExtensionPoint1"/>
   </packagedElement>
-  <packagedElement xmi:type="uml:UseCase" xmi:id="_THegQFQXEemwpo9TI_R5Hw" name="Filtar Contenido">
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_THegQFQXEemwpo9TI_R5Hw" name="[CU-SU-8]Filtar Contenido">
     <extend xmi:type="uml:Extend" xmi:id="_bSVB0FQXEemwpo9TI_R5Hw" extendedCase="_GA5EgFQXEemwpo9TI_R5Hw" extensionLocation="_bSVo4FQXEemwpo9TI_R5Hw"/>
     <extensionPoint xmi:type="uml:ExtensionPoint" xmi:id="_WbkHMFQXEemwpo9TI_R5Hw" name="ExtensionPoint1"/>
     <extensionPoint xmi:type="uml:ExtensionPoint" xmi:id="_ZHdFsFQXEemwpo9TI_R5Hw" name="ExtensionPoint2"/>
   </packagedElement>
-  <packagedElement xmi:type="uml:UseCase" xmi:id="_PayWoFQYEemwpo9TI_R5Hw" name="Gestionar Historial de Compras"/>
-  <packagedElement xmi:type="uml:UseCase" xmi:id="_Tb-7MFQYEemwpo9TI_R5Hw" name="Comprar Credito"/>
-  <packagedElement xmi:type="uml:UseCase" xmi:id="_lAFEEFQYEemwpo9TI_R5Hw" name="Descargar Contenido"/>
-  <packagedElement xmi:type="uml:UseCase" xmi:id="_-wE3YFQYEemwpo9TI_R5Hw" name="Pagar Contenido"/>
-  <packagedElement xmi:type="uml:UseCase" xmi:id="_BPCNIFQZEemwpo9TI_R5Hw" name="Regalar Contenido">
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_PayWoFQYEemwpo9TI_R5Hw" name="[CU-SU-15]Gestionar Historial de Compras"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_Tb-7MFQYEemwpo9TI_R5Hw" name="[CU-SU-11]Comprar Credito"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_lAFEEFQYEemwpo9TI_R5Hw" name="[CU-SU-10]Descargar Contenido"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_-wE3YFQYEemwpo9TI_R5Hw" name="[CU-SU-9]Pagar Contenido"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_BPCNIFQZEemwpo9TI_R5Hw" name="[CU-SU-6]Regalar Contenido">
     <include xmi:type="uml:Include" xmi:id="_Gp0a0FQZEemwpo9TI_R5Hw" addition="_-wE3YFQYEemwpo9TI_R5Hw"/>
   </packagedElement>
-  <packagedElement xmi:type="uml:UseCase" xmi:id="_DZEbwFQZEemwpo9TI_R5Hw" name="Comprar Contenido">
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_DZEbwFQZEemwpo9TI_R5Hw" name="[CU-SU-7]Comprar Contenido">
     <include xmi:type="uml:Include" xmi:id="_Fy0hYFQZEemwpo9TI_R5Hw" addition="_-wE3YFQYEemwpo9TI_R5Hw"/>
   </packagedElement>
-  <packagedElement xmi:type="uml:UseCase" xmi:id="_a6ZioFQaEemwpo9TI_R5Hw" name="Calificar Contenido"/>
-  <packagedElement xmi:type="uml:UseCase" xmi:id="_rWru4FQaEemwpo9TI_R5Hw" name="¿Olvidaste tu contraseña?"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_a6ZioFQaEemwpo9TI_R5Hw" name="[CU-SU-13]Calificar Contenido"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_rWru4FQaEemwpo9TI_R5Hw" name="[CU-SU-5]¿Olvidaste tu contraseña?"/>
   <packagedElement xmi:type="uml:Association" xmi:id="_oerNsFQfEemwpo9TI_R5Hw" memberEnd="_oerNs1QfEemwpo9TI_R5Hw _oer0wFQfEemwpo9TI_R5Hw">
     <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_oerNsVQfEemwpo9TI_R5Hw" source="org.eclipse.papyrus">
       <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_oerNslQfEemwpo9TI_R5Hw" key="nature" value="UML_Nature"/>
@@ -144,20 +144,20 @@
     <ownedEnd xmi:type="uml:Property" xmi:id="_ZYRVolQnEemwpo9TI_R5Hw" name="canjear regalo" type="_UwMzwFQmEemwpo9TI_R5Hw" association="_ZYQukFQnEemwpo9TI_R5Hw"/>
     <ownedEnd xmi:type="uml:Property" xmi:id="_ZYRVo1QnEemwpo9TI_R5Hw" name="usuario" type="_DmzdIFQWEemwpo9TI_R5Hw" association="_ZYQukFQnEemwpo9TI_R5Hw"/>
   </packagedElement>
-  <packagedElement xmi:type="uml:UseCase" xmi:id="_gvjsQFQnEemwpo9TI_R5Hw" name="Administrar Contenido">
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_gvjsQFQnEemwpo9TI_R5Hw" name="[CU-SA-3]Administrar Contenido">
     <extensionPoint xmi:type="uml:ExtensionPoint" xmi:id="_OEInkFQqEemwpo9TI_R5Hw" name="ExtensionPoint1"/>
   </packagedElement>
-  <packagedElement xmi:type="uml:UseCase" xmi:id="_pJX24FQnEemwpo9TI_R5Hw" name="Login Panel Administrativo"/>
-  <packagedElement xmi:type="uml:UseCase" xmi:id="_9CR7AFQnEemwpo9TI_R5Hw" name="Administrar Promociones"/>
-  <packagedElement xmi:type="uml:UseCase" xmi:id="_S-KjgFQoEemwpo9TI_R5Hw" name="Mostrar Tops de contenidos "/>
-  <packagedElement xmi:type="uml:UseCase" xmi:id="_ZsYSgFQpEemwpo9TI_R5Hw" name="Administrar Descuento"/>
-  <packagedElement xmi:type="uml:UseCase" xmi:id="_5jcKsFQpEemwpo9TI_R5Hw" name="Editar Perfil"/>
-  <packagedElement xmi:type="uml:UseCase" xmi:id="_9c36YFQpEemwpo9TI_R5Hw" name="Administrar Categorias"/>
-  <packagedElement xmi:type="uml:UseCase" xmi:id="_JP2ZMFQqEemwpo9TI_R5Hw" name="Buscar Contenido por nombre o codigo">
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_pJX24FQnEemwpo9TI_R5Hw" name="[CU-SA-1]Login Panel Administrativo"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_9CR7AFQnEemwpo9TI_R5Hw" name="[CU-SA-6]Administrar Promociones"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_S-KjgFQoEemwpo9TI_R5Hw" name="[CU-SA-7]Mostrar Tops de contenidos "/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_ZsYSgFQpEemwpo9TI_R5Hw" name="[CU-SA-5]Administrar Descuento"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_5jcKsFQpEemwpo9TI_R5Hw" name="[CU-SA-2]Editar Perfil"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_9c36YFQpEemwpo9TI_R5Hw" name="[CU-SA-8]Administrar Categorias"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_JP2ZMFQqEemwpo9TI_R5Hw" name="[CU-SA-4]Buscar Contenido por nombre o codigo">
     <extend xmi:type="uml:Extend" xmi:id="_OEIAgFQqEemwpo9TI_R5Hw" extendedCase="_gvjsQFQnEemwpo9TI_R5Hw" extensionLocation="_OEInkFQqEemwpo9TI_R5Hw"/>
   </packagedElement>
-  <packagedElement xmi:type="uml:UseCase" xmi:id="_kGtt8FQqEemwpo9TI_R5Hw" name="Mostrar Información del Usuario"/>
-  <packagedElement xmi:type="uml:UseCase" xmi:id="_3NkqEFQqEemwpo9TI_R5Hw" name="Gestionar Usuarios Administradores"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_kGtt8FQqEemwpo9TI_R5Hw" name="[CU-SA-9]Mostrar Información del Usuario"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_3NkqEFQqEemwpo9TI_R5Hw" name="[CU-SA-10]Gestionar Usuarios Administradores"/>
   <packagedElement xmi:type="uml:Association" xmi:id="_Ix41YFQrEemwpo9TI_R5Hw" memberEnd="_Ix5ccVQrEemwpo9TI_R5Hw _Ix5cclQrEemwpo9TI_R5Hw">
     <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_Ix41YVQrEemwpo9TI_R5Hw" source="org.eclipse.papyrus">
       <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_Ix5ccFQrEemwpo9TI_R5Hw" key="nature" value="UML_Nature"/>
