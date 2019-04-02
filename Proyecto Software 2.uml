@@ -29,7 +29,7 @@
   <packagedElement xmi:type="uml:UseCase" xmi:id="_BPCNIFQZEemwpo9TI_R5Hw" name="[CU-SU-6]Regalar Contenido">
     <include xmi:type="uml:Include" xmi:id="_Gp0a0FQZEemwpo9TI_R5Hw" addition="_-wE3YFQYEemwpo9TI_R5Hw"/>
   </packagedElement>
-  <packagedElement xmi:type="uml:UseCase" xmi:id="_DZEbwFQZEemwpo9TI_R5Hw" name="[CU-SU-7]Comprar Contenido">
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_DZEbwFQZEemwpo9TI_R5Hw" name="[CU-SU-7]Comprar Contenido para su Historial">
     <include xmi:type="uml:Include" xmi:id="_Fy0hYFQZEemwpo9TI_R5Hw" addition="_-wE3YFQYEemwpo9TI_R5Hw"/>
   </packagedElement>
   <packagedElement xmi:type="uml:UseCase" xmi:id="_a6ZioFQaEemwpo9TI_R5Hw" name="[CU-SU-13]Calificar Contenido"/>
@@ -112,9 +112,7 @@
     <ownedEnd xmi:type="uml:Property" xmi:id="_ExBMgFQhEemwpo9TI_R5Hw" name="descargar contenido" type="_lAFEEFQYEemwpo9TI_R5Hw" association="_Ew_-YFQhEemwpo9TI_R5Hw"/>
   </packagedElement>
   <packagedElement xmi:type="uml:Actor" xmi:id="_gaAhwFQhEemwpo9TI_R5Hw" name="Administrador"/>
-  <packagedElement xmi:type="uml:Actor" xmi:id="_hrleYFQhEemwpo9TI_R5Hw" name="Super Administrador">
-    <generalization xmi:type="uml:Generalization" xmi:id="_9h8yMFQqEemwpo9TI_R5Hw" general="_gaAhwFQhEemwpo9TI_R5Hw"/>
-  </packagedElement>
+  <packagedElement xmi:type="uml:Actor" xmi:id="_hrleYFQhEemwpo9TI_R5Hw" name="Súper administrador"/>
   <packagedElement xmi:type="uml:Association" xmi:id="_PgFacFQlEemwpo9TI_R5Hw" memberEnd="_PgGokFQlEemwpo9TI_R5Hw _PgGokVQlEemwpo9TI_R5Hw">
     <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_PgGBgFQlEemwpo9TI_R5Hw" source="org.eclipse.papyrus">
       <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_PgGBgVQlEemwpo9TI_R5Hw" key="nature" value="UML_Nature"/>
