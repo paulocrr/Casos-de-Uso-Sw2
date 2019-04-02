@@ -34,20 +34,6 @@
   </packagedElement>
   <packagedElement xmi:type="uml:UseCase" xmi:id="_a6ZioFQaEemwpo9TI_R5Hw" name="[CU-SU-13]Calificar Contenido"/>
   <packagedElement xmi:type="uml:UseCase" xmi:id="_rWru4FQaEemwpo9TI_R5Hw" name="[CU-SU-5]¿Olvidaste tu contraseña?"/>
-  <packagedElement xmi:type="uml:Association" xmi:id="_oerNsFQfEemwpo9TI_R5Hw" memberEnd="_oerNs1QfEemwpo9TI_R5Hw _oer0wFQfEemwpo9TI_R5Hw">
-    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_oerNsVQfEemwpo9TI_R5Hw" source="org.eclipse.papyrus">
-      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_oerNslQfEemwpo9TI_R5Hw" key="nature" value="UML_Nature"/>
-    </eAnnotations>
-    <ownedEnd xmi:type="uml:Property" xmi:id="_oerNs1QfEemwpo9TI_R5Hw" name="explorar contenido de la tienda" type="_GA5EgFQXEemwpo9TI_R5Hw" association="_oerNsFQfEemwpo9TI_R5Hw"/>
-    <ownedEnd xmi:type="uml:Property" xmi:id="_oer0wFQfEemwpo9TI_R5Hw" name="persona" type="_984nQFQVEemwpo9TI_R5Hw" association="_oerNsFQfEemwpo9TI_R5Hw"/>
-  </packagedElement>
-  <packagedElement xmi:type="uml:Association" xmi:id="_M8pmoFQgEemwpo9TI_R5Hw" memberEnd="_M8qNslQgEemwpo9TI_R5Hw _M8qNs1QgEemwpo9TI_R5Hw">
-    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_M8qNsFQgEemwpo9TI_R5Hw" source="org.eclipse.papyrus">
-      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_M8qNsVQgEemwpo9TI_R5Hw" key="nature" value="UML_Nature"/>
-    </eAnnotations>
-    <ownedEnd xmi:type="uml:Property" xmi:id="_M8qNslQgEemwpo9TI_R5Hw" name="registrar usuario" type="_GqjiAFQWEemwpo9TI_R5Hw" association="_M8pmoFQgEemwpo9TI_R5Hw"/>
-    <ownedEnd xmi:type="uml:Property" xmi:id="_M8qNs1QgEemwpo9TI_R5Hw" name="persona" type="_984nQFQVEemwpo9TI_R5Hw" association="_M8pmoFQgEemwpo9TI_R5Hw"/>
-  </packagedElement>
   <packagedElement xmi:type="uml:Association" xmi:id="_g9h7AFQgEemwpo9TI_R5Hw" memberEnd="_g9h7A1QgEemwpo9TI_R5Hw _g9iiEFQgEemwpo9TI_R5Hw">
     <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_g9h7AVQgEemwpo9TI_R5Hw" source="org.eclipse.papyrus">
       <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_g9h7AlQgEemwpo9TI_R5Hw" key="nature" value="UML_Nature"/>
@@ -209,4 +195,5 @@
   </packagedElement>
   <packagedElement xmi:type="uml:Association" xmi:id="_nNh4cFQrEemwpo9TI_R5Hw"/>
   <packagedElement xmi:type="uml:Association" xmi:id="_qTuNUFQrEemwpo9TI_R5Hw"/>
+  <packagedElement xmi:type="uml:Association" xmi:id="_R6T1UFWSEem5sq79_6rcgA"/>
 </uml:Model>
