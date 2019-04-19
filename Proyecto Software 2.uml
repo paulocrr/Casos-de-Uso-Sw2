@@ -34,7 +34,6 @@
   </packagedElement>
   <packagedElement xmi:type="uml:UseCase" xmi:id="_a6ZioFQaEemwpo9TI_R5Hw" name="[CU-SU-13]Calificar Contenido"/>
   <packagedElement xmi:type="uml:UseCase" xmi:id="_rWru4FQaEemwpo9TI_R5Hw" name="[CU-SU-5]¿Olvidaste tu contraseña?"/>
-<<<<<<< HEAD
   <packagedElement xmi:type="uml:Association" xmi:id="_M8pmoFQgEemwpo9TI_R5Hw" memberEnd="_M8qNslQgEemwpo9TI_R5Hw _M8qNs1QgEemwpo9TI_R5Hw">
     <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_M8qNsFQgEemwpo9TI_R5Hw" source="org.eclipse.papyrus">
       <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_M8qNsVQgEemwpo9TI_R5Hw" key="nature" value="UML_Nature"/>
@@ -42,8 +41,6 @@
     <ownedEnd xmi:type="uml:Property" xmi:id="_M8qNslQgEemwpo9TI_R5Hw" name="registrar usuario" type="_GqjiAFQWEemwpo9TI_R5Hw" association="_M8pmoFQgEemwpo9TI_R5Hw"/>
     <ownedEnd xmi:type="uml:Property" xmi:id="_M8qNs1QgEemwpo9TI_R5Hw" name="persona" type="_984nQFQVEemwpo9TI_R5Hw" association="_M8pmoFQgEemwpo9TI_R5Hw"/>
   </packagedElement>
-=======
->>>>>>> 6de3f6fffe152b906d63111eebe71a4205a8a9de
   <packagedElement xmi:type="uml:Association" xmi:id="_g9h7AFQgEemwpo9TI_R5Hw" memberEnd="_g9h7A1QgEemwpo9TI_R5Hw _g9iiEFQgEemwpo9TI_R5Hw">
     <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_g9h7AVQgEemwpo9TI_R5Hw" source="org.eclipse.papyrus">
       <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_g9h7AlQgEemwpo9TI_R5Hw" key="nature" value="UML_Nature"/>
@@ -122,7 +119,6 @@
     <ownedEnd xmi:type="uml:Property" xmi:id="_ExBMgFQhEemwpo9TI_R5Hw" name="descargar contenido" type="_lAFEEFQYEemwpo9TI_R5Hw" association="_Ew_-YFQhEemwpo9TI_R5Hw"/>
   </packagedElement>
   <packagedElement xmi:type="uml:Actor" xmi:id="_gaAhwFQhEemwpo9TI_R5Hw" name="Administrador"/>
-  <packagedElement xmi:type="uml:Actor" xmi:id="_hrleYFQhEemwpo9TI_R5Hw" name="Súper administrador"/>
   <packagedElement xmi:type="uml:Association" xmi:id="_PgFacFQlEemwpo9TI_R5Hw" memberEnd="_PgGokFQlEemwpo9TI_R5Hw _PgGokVQlEemwpo9TI_R5Hw">
     <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_PgGBgFQlEemwpo9TI_R5Hw" source="org.eclipse.papyrus">
       <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_PgGBgVQlEemwpo9TI_R5Hw" key="nature" value="UML_Nature"/>
@@ -159,13 +155,6 @@
     <ownedEnd xmi:type="uml:Property" xmi:id="_Ix5ccVQrEemwpo9TI_R5Hw" name="login panel administrativo" type="_pJX24FQnEemwpo9TI_R5Hw" association="_Ix41YFQrEemwpo9TI_R5Hw"/>
     <ownedEnd xmi:type="uml:Property" xmi:id="_Ix5cclQrEemwpo9TI_R5Hw" name="administrador" type="_gaAhwFQhEemwpo9TI_R5Hw" association="_Ix41YFQrEemwpo9TI_R5Hw"/>
   </packagedElement>
-  <packagedElement xmi:type="uml:Association" xmi:id="_MLtQ4FQrEemwpo9TI_R5Hw" memberEnd="_MLt38lQrEemwpo9TI_R5Hw _MLufAFQrEemwpo9TI_R5Hw">
-    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_MLt38FQrEemwpo9TI_R5Hw" source="org.eclipse.papyrus">
-      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_MLt38VQrEemwpo9TI_R5Hw" key="nature" value="UML_Nature"/>
-    </eAnnotations>
-    <ownedEnd xmi:type="uml:Property" xmi:id="_MLt38lQrEemwpo9TI_R5Hw" name="gestionar usuarios administradores" type="_3NkqEFQqEemwpo9TI_R5Hw" association="_MLtQ4FQrEemwpo9TI_R5Hw"/>
-    <ownedEnd xmi:type="uml:Property" xmi:id="_MLufAFQrEemwpo9TI_R5Hw" name="super administrador" type="_hrleYFQhEemwpo9TI_R5Hw" association="_MLtQ4FQrEemwpo9TI_R5Hw"/>
-  </packagedElement>
   <packagedElement xmi:type="uml:Association" xmi:id="_OgPfUFQrEemwpo9TI_R5Hw" memberEnd="_OgPfU1QrEemwpo9TI_R5Hw _OgPfVFQrEemwpo9TI_R5Hw">
     <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_OgPfUVQrEemwpo9TI_R5Hw" source="org.eclipse.papyrus">
       <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_OgPfUlQrEemwpo9TI_R5Hw" key="nature" value="UML_Nature"/>
@@ -196,7 +185,6 @@
   </packagedElement>
   <packagedElement xmi:type="uml:Association" xmi:id="_nNh4cFQrEemwpo9TI_R5Hw"/>
   <packagedElement xmi:type="uml:Association" xmi:id="_qTuNUFQrEemwpo9TI_R5Hw"/>
-<<<<<<< HEAD
   <packagedElement xmi:type="uml:UseCase" xmi:id="_u_294FySEemvJYGrnHxD5A" name="[CU-SA-3.2] Agregar Contenido">
     <generalization xmi:type="uml:Generalization" xmi:id="_zXRDAFySEemvJYGrnHxD5A" general="_gvjsQFQnEemwpo9TI_R5Hw"/>
   </packagedElement>
@@ -243,7 +231,14 @@
   <packagedElement xmi:type="uml:UseCase" xmi:id="_m-wxEFyZEemvJYGrnHxD5A" name="[CU-SA-9.3]Restaurar password usuario Aministrador">
     <generalization xmi:type="uml:Generalization" xmi:id="_tj2OsFyZEemvJYGrnHxD5A" general="_3NkqEFQqEemwpo9TI_R5Hw"/>
   </packagedElement>
-=======
-  <packagedElement xmi:type="uml:Association" xmi:id="_R6T1UFWSEem5sq79_6rcgA"/>
->>>>>>> 6de3f6fffe152b906d63111eebe71a4205a8a9de
+  <packagedElement xmi:type="uml:Actor" xmi:id="_viFzAGL6Eem-g9PwWtqTJQ" name="SuperAdministrador">
+    <generalization xmi:type="uml:Generalization" xmi:id="_yJcPwGL6Eem-g9PwWtqTJQ" general="_gaAhwFQhEemwpo9TI_R5Hw"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_0IA1QGL6Eem-g9PwWtqTJQ" memberEnd="_0ICqcGL6Eem-g9PwWtqTJQ _0IDRgGL6Eem-g9PwWtqTJQ">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_0ICDYGL6Eem-g9PwWtqTJQ" source="org.eclipse.papyrus">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_0ICDYWL6Eem-g9PwWtqTJQ" key="nature" value="UML_Nature"/>
+    </eAnnotations>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_0ICqcGL6Eem-g9PwWtqTJQ" name="[cu-sa-9]administrar usuarios administradores" type="_3NkqEFQqEemwpo9TI_R5Hw" association="_0IA1QGL6Eem-g9PwWtqTJQ"/>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_0IDRgGL6Eem-g9PwWtqTJQ" name="superadministrador" type="_viFzAGL6Eem-g9PwWtqTJQ" association="_0IA1QGL6Eem-g9PwWtqTJQ"/>
+  </packagedElement>
 </uml:Model>
