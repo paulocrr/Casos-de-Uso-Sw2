@@ -34,13 +34,6 @@
   </packagedElement>
   <packagedElement xmi:type="uml:UseCase" xmi:id="_a6ZioFQaEemwpo9TI_R5Hw" name="[CU-SU-13]Calificar Contenido"/>
   <packagedElement xmi:type="uml:UseCase" xmi:id="_rWru4FQaEemwpo9TI_R5Hw" name="[CU-SU-5]¿Olvidaste tu contraseña?"/>
-  <packagedElement xmi:type="uml:Association" xmi:id="_oerNsFQfEemwpo9TI_R5Hw" memberEnd="_oerNs1QfEemwpo9TI_R5Hw _oer0wFQfEemwpo9TI_R5Hw">
-    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_oerNsVQfEemwpo9TI_R5Hw" source="org.eclipse.papyrus">
-      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_oerNslQfEemwpo9TI_R5Hw" key="nature" value="UML_Nature"/>
-    </eAnnotations>
-    <ownedEnd xmi:type="uml:Property" xmi:id="_oerNs1QfEemwpo9TI_R5Hw" name="explorar contenido de la tienda" type="_GA5EgFQXEemwpo9TI_R5Hw" association="_oerNsFQfEemwpo9TI_R5Hw"/>
-    <ownedEnd xmi:type="uml:Property" xmi:id="_oer0wFQfEemwpo9TI_R5Hw" name="persona" type="_984nQFQVEemwpo9TI_R5Hw" association="_oerNsFQfEemwpo9TI_R5Hw"/>
-  </packagedElement>
   <packagedElement xmi:type="uml:Association" xmi:id="_M8pmoFQgEemwpo9TI_R5Hw" memberEnd="_M8qNslQgEemwpo9TI_R5Hw _M8qNs1QgEemwpo9TI_R5Hw">
     <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_M8qNsFQgEemwpo9TI_R5Hw" source="org.eclipse.papyrus">
       <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_M8qNsVQgEemwpo9TI_R5Hw" key="nature" value="UML_Nature"/>
@@ -148,16 +141,16 @@
     <extensionPoint xmi:type="uml:ExtensionPoint" xmi:id="_OEInkFQqEemwpo9TI_R5Hw" name="ExtensionPoint1"/>
   </packagedElement>
   <packagedElement xmi:type="uml:UseCase" xmi:id="_pJX24FQnEemwpo9TI_R5Hw" name="[CU-SA-1]Login Panel Administrativo"/>
-  <packagedElement xmi:type="uml:UseCase" xmi:id="_9CR7AFQnEemwpo9TI_R5Hw" name="[CU-SA-6]Administrar Promociones"/>
-  <packagedElement xmi:type="uml:UseCase" xmi:id="_S-KjgFQoEemwpo9TI_R5Hw" name="[CU-SA-7]Mostrar Tops de contenidos "/>
-  <packagedElement xmi:type="uml:UseCase" xmi:id="_ZsYSgFQpEemwpo9TI_R5Hw" name="[CU-SA-5]Administrar Descuento"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_9CR7AFQnEemwpo9TI_R5Hw" name="[CU-SA-5]Administrar Promociones"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_S-KjgFQoEemwpo9TI_R5Hw" name="[CU-SA-6]Mostrar Tops de contenidos "/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_ZsYSgFQpEemwpo9TI_R5Hw" name="[CU-SA-4]Modificar Descuento"/>
   <packagedElement xmi:type="uml:UseCase" xmi:id="_5jcKsFQpEemwpo9TI_R5Hw" name="[CU-SA-2]Editar Perfil"/>
-  <packagedElement xmi:type="uml:UseCase" xmi:id="_9c36YFQpEemwpo9TI_R5Hw" name="[CU-SA-8]Administrar Categorias"/>
-  <packagedElement xmi:type="uml:UseCase" xmi:id="_JP2ZMFQqEemwpo9TI_R5Hw" name="[CU-SA-4]Buscar Contenido por nombre o codigo">
-    <extend xmi:type="uml:Extend" xmi:id="_OEIAgFQqEemwpo9TI_R5Hw" extendedCase="_gvjsQFQnEemwpo9TI_R5Hw" extensionLocation="_OEInkFQqEemwpo9TI_R5Hw"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_9c36YFQpEemwpo9TI_R5Hw" name="[CU-SA-7]Administrar Categorias"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_JP2ZMFQqEemwpo9TI_R5Hw" name="[CU-SA-3.1]Buscar Contenido por nombre o codigo">
+    <generalization xmi:type="uml:Generalization" xmi:id="_uGXKEFySEemvJYGrnHxD5A" general="_gvjsQFQnEemwpo9TI_R5Hw"/>
   </packagedElement>
-  <packagedElement xmi:type="uml:UseCase" xmi:id="_kGtt8FQqEemwpo9TI_R5Hw" name="[CU-SA-9]Mostrar Información del Usuario"/>
-  <packagedElement xmi:type="uml:UseCase" xmi:id="_3NkqEFQqEemwpo9TI_R5Hw" name="[CU-SA-10]Gestionar Usuarios Administradores"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_kGtt8FQqEemwpo9TI_R5Hw" name="[CU-SA-8]Mostrar Información del Usuario"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_3NkqEFQqEemwpo9TI_R5Hw" name="[CU-SA-9]Administrar Usuarios Administradores"/>
   <packagedElement xmi:type="uml:Association" xmi:id="_Ix41YFQrEemwpo9TI_R5Hw" memberEnd="_Ix5ccVQrEemwpo9TI_R5Hw _Ix5cclQrEemwpo9TI_R5Hw">
     <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_Ix41YVQrEemwpo9TI_R5Hw" source="org.eclipse.papyrus">
       <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_Ix5ccFQrEemwpo9TI_R5Hw" key="nature" value="UML_Nature"/>
@@ -200,13 +193,52 @@
     <ownedEnd xmi:type="uml:Property" xmi:id="_b3yvQFQrEemwpo9TI_R5Hw" name="editar perfil" type="_5jcKsFQpEemwpo9TI_R5Hw" association="_b3xhIFQrEemwpo9TI_R5Hw"/>
     <ownedEnd xmi:type="uml:Property" xmi:id="_b30kcFQrEemwpo9TI_R5Hw" name="administrador" type="_gaAhwFQhEemwpo9TI_R5Hw" association="_b3xhIFQrEemwpo9TI_R5Hw"/>
   </packagedElement>
-  <packagedElement xmi:type="uml:Association" xmi:id="_jvS3AFQrEemwpo9TI_R5Hw" memberEnd="_jvTeElQrEemwpo9TI_R5Hw _jvTeE1QrEemwpo9TI_R5Hw">
-    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_jvTeEFQrEemwpo9TI_R5Hw" source="org.eclipse.papyrus">
-      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_jvTeEVQrEemwpo9TI_R5Hw" key="nature" value="UML_Nature"/>
-    </eAnnotations>
-    <ownedEnd xmi:type="uml:Property" xmi:id="_jvTeElQrEemwpo9TI_R5Hw" name="mostrar información del usuario" type="_kGtt8FQqEemwpo9TI_R5Hw" association="_jvS3AFQrEemwpo9TI_R5Hw"/>
-    <ownedEnd xmi:type="uml:Property" xmi:id="_jvTeE1QrEemwpo9TI_R5Hw" type="_WapKEFQrEemwpo9TI_R5Hw" association="_jvS3AFQrEemwpo9TI_R5Hw"/>
-  </packagedElement>
   <packagedElement xmi:type="uml:Association" xmi:id="_nNh4cFQrEemwpo9TI_R5Hw"/>
   <packagedElement xmi:type="uml:Association" xmi:id="_qTuNUFQrEemwpo9TI_R5Hw"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_u_294FySEemvJYGrnHxD5A" name="[CU-SA-3.2] Agregar Contenido">
+    <generalization xmi:type="uml:Generalization" xmi:id="_zXRDAFySEemvJYGrnHxD5A" general="_gvjsQFQnEemwpo9TI_R5Hw"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_0ogocFySEemvJYGrnHxD5A" name="[CU-SA-3.4]  Deshabilitar Contenido">
+    <generalization xmi:type="uml:Generalization" xmi:id="_L0x6wFyTEemvJYGrnHxD5A" general="_gvjsQFQnEemwpo9TI_R5Hw"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_7JzLMFySEemvJYGrnHxD5A" name="[CU-SA-3.3]  Modificar Contenido">
+    <generalization xmi:type="uml:Generalization" xmi:id="_XkQZoFyTEemvJYGrnHxD5A" general="_gvjsQFQnEemwpo9TI_R5Hw"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_VbevQFyTEemvJYGrnHxD5A" memberEnd="_VbgkcFyTEemvJYGrnHxD5A _VbhLgFyTEemvJYGrnHxD5A">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_Vbf9YFyTEemvJYGrnHxD5A" source="org.eclipse.papyrus">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_Vbf9YVyTEemvJYGrnHxD5A" key="nature" value="UML_Nature"/>
+    </eAnnotations>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_VbgkcFyTEemvJYGrnHxD5A" name="administrador" type="_gaAhwFQhEemwpo9TI_R5Hw" association="_VbevQFyTEemvJYGrnHxD5A"/>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_VbhLgFyTEemvJYGrnHxD5A" name="[cu-sa-9]mostrar información del usuario" type="_kGtt8FQqEemwpo9TI_R5Hw" association="_VbevQFyTEemvJYGrnHxD5A"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_-wWlsFyTEemvJYGrnHxD5A" name="[CU-SA-5.1] Visualizar Promociones">
+    <generalization xmi:type="uml:Generalization" xmi:id="_LhUWwFyUEemvJYGrnHxD5A" general="_9CR7AFQnEemwpo9TI_R5Hw"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_Cp1YsFyUEemvJYGrnHxD5A" name="[CU-SA-5.2] Agregar Promociones">
+    <generalization xmi:type="uml:Generalization" xmi:id="_L8M78FyUEemvJYGrnHxD5A" general="_9CR7AFQnEemwpo9TI_R5Hw"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_HyMZoFyUEemvJYGrnHxD5A" name="[CU-SA-5.3] Modificar Promociones">
+    <generalization xmi:type="uml:Generalization" xmi:id="_MUhVUFyUEemvJYGrnHxD5A" general="_9CR7AFQnEemwpo9TI_R5Hw"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_TEZtsFyUEemvJYGrnHxD5A" name="[CU-SA-7.1] Visualizar Categorias">
+    <generalization xmi:type="uml:Generalization" xmi:id="_mXwNsFyUEemvJYGrnHxD5A" general="_9c36YFQpEemwpo9TI_R5Hw"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_Xz0qMFyUEemvJYGrnHxD5A" name="[CU-SA-7.2]  Agregar Categorias">
+    <generalization xmi:type="uml:Generalization" xmi:id="_m0Ar4FyUEemvJYGrnHxD5A" general="_9c36YFQpEemwpo9TI_R5Hw"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_hC8FIFyUEemvJYGrnHxD5A" name="[CU-SA-7.3] Mofidicar Categorias">
+    <generalization xmi:type="uml:Generalization" xmi:id="_nXsnwFyUEemvJYGrnHxD5A" general="_9c36YFQpEemwpo9TI_R5Hw"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_4ptFoFyVEemvJYGrnHxD5A" name="[CU-SA-7.4] Borrar Categoria">
+    <generalization xmi:type="uml:Generalization" xmi:id="_-Paw8FyVEemvJYGrnHxD5A" general="_9c36YFQpEemwpo9TI_R5Hw"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_Z214kFyZEemvJYGrnHxD5A" name="[CU-SA-9.1]Agregar Usuario Administrador">
+    <generalization xmi:type="uml:Generalization" xmi:id="_ukt10FyZEemvJYGrnHxD5A" general="_3NkqEFQqEemwpo9TI_R5Hw"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_dnA-kFyZEemvJYGrnHxD5A" name="[CU-SA-9.2] Deshabilitar Usuario Administrador">
+    <generalization xmi:type="uml:Generalization" xmi:id="_t_7GsFyZEemvJYGrnHxD5A" general="_3NkqEFQqEemwpo9TI_R5Hw"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_m-wxEFyZEemvJYGrnHxD5A" name="[CU-SA-9.3]Restaurar password usuario Aministrador">
+    <generalization xmi:type="uml:Generalization" xmi:id="_tj2OsFyZEemvJYGrnHxD5A" general="_3NkqEFQqEemwpo9TI_R5Hw"/>
+  </packagedElement>
 </uml:Model>
