@@ -244,4 +244,12 @@
     <ownedEnd xmi:type="uml:Property" xmi:id="_ZDyvEGL8EemKBuyWhjR2bw" name="[cu-su-1]registrar usuario" type="_GqjiAFQWEemwpo9TI_R5Hw" association="_ZDvEsGL8EemKBuyWhjR2bw"/>
     <ownedEnd xmi:type="uml:Property" xmi:id="_ZDz9MGL8EemKBuyWhjR2bw" name="persona" type="_VGl5sGL8EemKBuyWhjR2bw" association="_ZDvEsGL8EemKBuyWhjR2bw"/>
   </packagedElement>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_16iMsGMDEemKBuyWhjR2bw" name="[CU-SA-10]Listar Usuario de la Plataforma"/>
+  <packagedElement xmi:type="uml:Association" xmi:id="_5eO88GMDEemKBuyWhjR2bw" memberEnd="_5eQLEGMDEemKBuyWhjR2bw _5eQLEWMDEemKBuyWhjR2bw">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_5ePkAGMDEemKBuyWhjR2bw" source="org.eclipse.papyrus">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_5ePkAWMDEemKBuyWhjR2bw" key="nature" value="UML_Nature"/>
+    </eAnnotations>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_5eQLEGMDEemKBuyWhjR2bw" name="listar usuario de la plataforma" type="_16iMsGMDEemKBuyWhjR2bw" association="_5eO88GMDEemKBuyWhjR2bw"/>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_5eQLEWMDEemKBuyWhjR2bw" name="administrador" type="_gaAhwFQhEemwpo9TI_R5Hw" association="_5eO88GMDEemKBuyWhjR2bw"/>
+  </packagedElement>
 </uml:Model>
